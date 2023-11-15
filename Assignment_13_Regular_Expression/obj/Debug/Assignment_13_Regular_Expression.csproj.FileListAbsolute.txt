@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-8\Assignment_13_Regular_Expression\Assignment_13_Regular_Expression\bin\Debug\Assignment_13_Regular_Expression.exe.config
+D:\Mphasis-B2\Day-8\Assignment_13_Regular_Expression\Assignment_13_Regular_Expression\bin\Debug\Assignment_13_Regular_Expression.exe
+D:\Mphasis-B2\Day-8\Assignment_13_Regular_Expression\Assignment_13_Regular_Expression\bin\Debug\Assignment_13_Regular_Expression.pdb
+D:\Mphasis-B2\Day-8\Assignment_13_Regular_Expression\Assignment_13_Regular_Expression\obj\Debug\Assignment_13_Regular_Expression.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-8\Assignment_13_Regular_Expression\Assignment_13_Regular_Expression\obj\Debug\Assignment_13_Regular_Expression.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-8\Assignment_13_Regular_Expression\Assignment_13_Regular_Expression\obj\Debug\Assignment_13_Regular_Expression.exe
+D:\Mphasis-B2\Day-8\Assignment_13_Regular_Expression\Assignment_13_Regular_Expression\obj\Debug\Assignment_13_Regular_Expression.pdb
